@@ -1,0 +1,35 @@
+{
+    "name": "Mathtown Alley",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "animation": "*",
+        "radio": "*",
+        "palette": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.3.44",
+        "tag": "v1.3.44",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/d1e057830c0eebc87e3e400f2106c8e1f0e5a077",
+        "target": "1.8.22",
+        "pxt": "6.8.33",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
